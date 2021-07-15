@@ -3,7 +3,7 @@ import { Container, Row } from 'react-bootstrap';
 import Navigation from './components/navbar/navigation';
 import Header from './components/header/header';
 import './style.css';
-import Service from './components/service/service';
+import Brand from './components/service/brand';
 
 const App = () => {
   return (
@@ -15,7 +15,7 @@ const App = () => {
         <Header />
       </Row>
       <Row className="services">
-        <Service />
+        <Brand />
       </Row>
     </Container>
   );

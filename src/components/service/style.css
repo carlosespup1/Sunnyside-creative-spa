@@ -38,4 +38,23 @@
   border-bottom: 4px solid #fe7867;
   border-bottom-left-radius: 5px;
 }
+
+/* Services styles */
+.service {
+  min-height: 600px;
+}
+
+.g-design-service {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-graphic-design.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.g-photo-service {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-photography.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 /*# sourceMappingURL=style.css.map */
