@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap");
+.rows-size {
+  min-height: 450px;
+}
+
+.describe {
+  color: #a7abae;
+}
+
+.first-row-1 {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-transform.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.first-row-2 {
+  font-family: 'Fraunces', serif;
+}
+
+.first-row-2 .learn-more {
+  border-bottom: 4px solid #fad400;
+  border-bottom-left-radius: 5px;
+}
+
+.second-row-1 {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-stand-out.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.second-row-2 {
+  font-family: 'Fraunces', serif;
+}
+
+.second-row-2 .learn-more {
+  border-bottom: 4px solid #fe7867;
+  border-bottom-left-radius: 5px;
+}
+/*# sourceMappingURL=style.css.map */
