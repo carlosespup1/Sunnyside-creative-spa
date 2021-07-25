@@ -2,6 +2,7 @@
 $Grayishblue: hsl(210, 4%, 67%);
 $Softred: hsl(7, 99%, 70%);
 $Yellow: hsl(51, 100%, 49%);
+$Darkmoderatecyan: hsl(168, 34%, 41%);
 
 .rows-size {
     min-height: 450px;
@@ -46,6 +47,9 @@ $Yellow: hsl(51, 100%, 49%);
 /* Services styles */
 .service {
     min-height: 600px;
+    color: $Darkmoderatecyan;
+    font-weight: bold;
+    font-family: 'Fraunces', serif;
 }
 
 .g-design-service {

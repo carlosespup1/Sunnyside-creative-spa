@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap");
+h1 {
+  font-size: 23px;
+}
+
+.testimonial {
+  font-family: 'Fraunces', serif;
+  color: #a7abae;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.testimonial img {
+  border-radius: 50%;
+  width: 25%;
+}
+
+.testimonial .name {
+  font-size: 18px;
+}
+
+.testimonial .position {
+  font-size: 12px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -4,6 +4,7 @@ import Navigation from './components/navbar/navigation';
 import Header from './components/header/header';
 import './style.css';
 import Brand from './components/service/brand';
+import Testimonials from './components/testimonials/testimonial'
 
 const App = () => {
   return (
@@ -16,6 +17,9 @@ const App = () => {
       </Row>
       <Row className="services">
         <Brand />
+      </Row>
+      <Row className="testimonial text-center">
+        <Testimonials />
       </Row>
     </Container>
   );

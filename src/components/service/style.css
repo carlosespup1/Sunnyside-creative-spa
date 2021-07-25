@@ -42,6 +42,9 @@
 /* Services styles */
 .service {
   min-height: 600px;
+  color: #458c7e;
+  font-weight: bold;
+  font-family: 'Fraunces', serif;
 }
 
 .g-design-service {

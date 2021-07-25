@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap');
+$Grayishblue: hsl(210, 4%, 67%);
+
+h1 {
+    font-size: 23px;
+}
+.testimonial {
+    font-family: 'Fraunces', serif;
+    color: $Grayishblue;
+    justify-content:center;
+
+    img {
+        border-radius: 50%;
+        width: 25%;
+    }
+    .name {
+        font-size: 18px;
+    }
+    .position {
+        font-size: 12px;
+    }
+}
