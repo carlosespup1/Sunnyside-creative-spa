@@ -7,4 +7,13 @@
 .main .testimonial {
   background-color: #FFFBF8;
 }
+
+.main .square {
+  min-height: 400px;
+}
+
+.main .footer {
+  background-color: #458c7e;
+  min-height: 300px;
+}
 /*# sourceMappingURL=style.css.map */

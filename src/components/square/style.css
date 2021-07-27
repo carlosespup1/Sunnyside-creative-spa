@@ -1,0 +1,24 @@
+.first {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-gallery-cone.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.second {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-gallery-milkbottles.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.third {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-gallery-orange.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.fourth {
+  background-image: url("/Users/carlos/Documents/sunnyside/src/issues/images/image-gallery-sugarcubes.jpg");
+  background-size: cover;
+  background-position: center;
+}
+/*# sourceMappingURL=style.css.map */

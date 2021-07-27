@@ -5,6 +5,8 @@ import Header from './components/header/header';
 import './style.css';
 import Brand from './components/service/brand';
 import Testimonials from './components/testimonials/testimonial'
+import Square from './components/square/square';
+import Footer from './components/footer/footer';
 
 const App = () => {
   return (
@@ -20,6 +22,12 @@ const App = () => {
       </Row>
       <Row className="testimonial text-center">
         <Testimonials />
+      </Row>
+      <Row className="square">
+        <Square />
+      </Row>
+      <Row className="footer text-center">
+        <Footer />
       </Row>
     </Container>
   );

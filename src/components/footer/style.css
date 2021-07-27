@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap");
+.footer {
+  font-family: 'Barlow', sans-serif;
+  font-weight: bold;
+}
+
+.footer .media {
+  color: #19536b;
+  font-size: 22px;
+}
+
+.footer .title-footer {
+  color: #19536b;
+  font-size: 34px;
+}
+
+.footer .nav-item {
+  color: #19536b;
+}
+/*# sourceMappingURL=style.css.map */
