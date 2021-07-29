@@ -61,15 +61,12 @@
   background-size: cover;
 }
 
-/*
 @media screen and (min-width: 768px) {
-    .g-design-service {
-        background-image: url('/Users/carlos/Documents/sunnyside/src/issues/desktop/image-graphic-design.jpg');
-    }
-
-    .g-photo-service {
-        background-image: url('/Users/carlos/Documents/sunnyside/src/issues/desktop/image-photography.jpg');
-    }
+  .g-design-service {
+    background-image: url("/Users/carlos/Documents/sunnyside/src/issues/desktop/image-graphic-design.jpg");
+  }
+  .g-photo-service {
+    background-image: url("/Users/carlos/Documents/sunnyside/src/issues/desktop/image-photography.jpg");
+  }
 }
-*/
 /*# sourceMappingURL=style.css.map */
