@@ -1,17 +1,20 @@
+$Yellow: hsl(51, 100%, 49%);
+$White: hsl(0, 0%, 100%);
+
 .navigation {
     font-size: 20px;
     text-align: center;
+
 
     .brand {
         font-size: 28px;
     }
 
-    .contact {
-        padding: 10px;
-        background-color: #fff;
-        width: 50%;
-        align-self: center;
-        border-radius: 202px;
+    .btn-contact {
+        background-color: $Yellow;
+        width: 150px;
+        height: 40px;
+        border-radius: 10px;
     }
 }
 

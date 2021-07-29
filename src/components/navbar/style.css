@@ -7,13 +7,10 @@
   font-size: 28px;
 }
 
-.navigation .contact {
-  padding: 10px;
-  background-color: #fff;
-  width: 50%;
-  -ms-flex-item-align: center;
-      -ms-grid-row-align: center;
-      align-self: center;
-  border-radius: 202px;
+.navigation .btn-contact {
+  background-color: #fad400;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
 }
 /*# sourceMappingURL=style.css.map */
